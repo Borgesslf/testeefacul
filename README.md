@@ -1,4 +1,4 @@
-# 📋 TpJOtobosta
+# 📋 TpJOtob
 Este projeto é um sistema de gestão de frota de transportes que simula viagens de veículos em uma transportadora. O sistema aceita tanto carros para gerentes quanto caminhões para carga, com regras específicas para cada tipo de veículo quanto ao consumo de combustível, custos de pedágios e revisões. O sistema é seguro, válido contra dados inválidos, e demonstra conceitos de herança, polimorfismo e interfaces em programação.
 
 👨‍💻 Desenvolvido por Luis Felipe de Oliveira Borges na Universidade Santa Cecília (Unisanta).
